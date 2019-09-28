@@ -1358,12 +1358,12 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     margin-top: .3rem;
     margin-bottom: 2.1rem;
     padding-bottom: 2.4rem;
-    color: #FFFFFF;
+    color: #0D0A0B;
     position: relative;
 }
 
 .blog-list h2 a {
-    color: #0D0A0B;
+    color: #FFFFFF;
 }
 
 .blog-list h2::after {
